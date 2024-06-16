@@ -1,1 +1,1 @@
-# automation-ocr-data-analysis-java.git/
+# automation-ocr-data-analysis
